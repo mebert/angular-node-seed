@@ -1,0 +1,25 @@
+{
+  "name": "angular-seed",
+  "version": "0.0.1",
+  "description": "Seed project for angular projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mebert/angular-node-seed.git"
+  },
+  "author": "Mary Ebert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mebert/angular-node-seed/issues"
+  },
+  "homepage": "https://github.com/mebert/angular-node-seed",
+  "devDependencies": {
+    "karma": "^0.12.36",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "phantomjs": "^1.9.17"
+  }
+}
